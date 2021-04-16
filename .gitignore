@@ -3,5 +3,5 @@
 *.DS_Store
 
 # Module Ignores
-modules/introduction-user-input/*.py
+modules/introduction-user-inputs/*.py
 *.ipynb_checkpoints
