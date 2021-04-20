@@ -2,6 +2,9 @@
 *.ipynb_checkpoints
 *.DS_Store
 
-# Module Ignores
+# Specific Module Ignores
 modules/introduction-user-inputs/*.py
 *.ipynb_checkpoints
+
+# Paused Modules
+modules/working-with-the-command-line
