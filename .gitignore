@@ -3,8 +3,11 @@
 *.DS_Store
 
 # Specific Module Ignores
+## Introduction to User Inputs ##
 modules/introduction-user-inputs/*.py
-*.ipynb_checkpoints
+
+## Introduction to Argparse, Pt. 1 ##
+modules/introduction-argparse-pt1/parsing.py
 
 # Paused Modules
 modules/working-with-the-command-line
